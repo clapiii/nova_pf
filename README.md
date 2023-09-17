@@ -4,7 +4,6 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-   
     <br />
     <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
