@@ -30,6 +30,9 @@ Hello, I'm ***Clapii***, the sole developer of Nova, not only for the bot but al
 
 I'm a developer, not highly advanced, but I know my way around. I started this project on my own and I'm also finishing it solo. However, for future updates, I'd like to have at least a group of people, but that will be seen.
 
-You can follow me here:
+You can see me here:
 
-* Instagram: [https://instagram.com]
+* Github: [https://github.com/clapiii]
+* Discord: clappi
+* Discord Server:
+* Twitter: [https://twitter.com/clapii__]
