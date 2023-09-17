@@ -3,6 +3,7 @@
  <h2 align="center">Nova Github Profile</h2>
  <p align="center">Developer of Nova Bot and Nova Documentation</p>
 </p>
+![nova](https://github.com/clapiii/nova_pf/assets/90493375/c0816098-7147-4345-bad0-fbc97762ca65)
 
 > [!NOTE]\
 > This is the only Nova official Github Profile.
