@@ -7,44 +7,6 @@
 > [!NOTE]\
 > This is the only Nova official Github Profile.
 
-### Hiding individual stats
-
-You can pass a query parameter `&hide=` to hide any specific stats with comma-separated values.
-
-> Options: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-```
-
-### Showing additional individual stats
-
-You can pass a query parameter `&show=` to show any specific additional stats with comma-separated values.
-
-> Options: `&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-```
-
-### Showing icons
-
-To enable icons, you can pass `&show_icons=true` in the query param, like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-```
-
-### Themes
-
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
-
-Use `&theme=THEME_NAME` parameter like so :
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-```
-
 #### All inbuilt themes
 
 GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
