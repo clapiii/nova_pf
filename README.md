@@ -7,7 +7,7 @@
 > [!NOTE]\
 > This is the only Nova official Github Profile.
 
-#### Nova Intro
+### Nova Intro
 
 **Nova** is the all-in-one solution your Discord server needs. With a powerful suite of features, it covers everything from **Moderation** to **Economy** and even **Suggestion** management. Whether you're looking for a seamless server experience or just some good old fun, **Nova** has got you covered. 
 
