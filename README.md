@@ -24,7 +24,7 @@
 
 #### Why Should You Add Nova?
 
-***Nova*** simplifies server management, enhances community engagement, and adds a layer of excitement to your Discord experience. It's the perfect addition for any server, ensuring a safe, entertaining, and dynamic environment for your members.
+***Nova*** simplifies server management using the slash commands (`/`), enhances community engagement, and adds a layer of excitement to your Discord experience. It's the perfect addition for any server, ensuring a safe, entertaining, and dynamic environment for your members.
 
 Don't miss out on the *opportunity* to elevate your server. Add **Nova** now and experience Discord like never before!
 
