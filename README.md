@@ -4,7 +4,8 @@
 </p>
 
 > [!NOTE]\
-> This is the only Nova official Github Profile.
+> This is the only Nova official Github Profile.'
+
 > [!WARNING]\
 > warning.
 
