@@ -6,7 +6,7 @@
 > [!NOTE]\
 > This is the only Nova official Github Profile.
 > [!WARNING]\
-> warning
+> warning.
 
 ### Nova Intro:
 
