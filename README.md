@@ -7,7 +7,7 @@
 > This is the only Nyks official Github Profile.'
 
 > [!WARNING]\
-> warning.
+> *For now, nyks is a demo, so there is no invite link, but there will be one soon.*
 
 ### Nyks Intro:
 
