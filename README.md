@@ -36,7 +36,7 @@ I'm a developer, not highly advanced, but I know my way around. I started this p
 
 You can see me here:
 
-* Github: [https://github.com/noolyz]
 * Discord: noolyz
 * Discord Server (*personal*): [https://discord.gg/43hY8QQtXK]
 * Discord Server (*nyks app*): [https://discord.gg/FbCMkdhdqj]
+* Github: [https://github.com/noolyz]
